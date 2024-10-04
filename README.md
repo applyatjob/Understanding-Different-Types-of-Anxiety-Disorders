@@ -26,7 +26,7 @@ c) Causes of GAD:
 Although the precise etiology of GAD is unknown, a number of variables, such as genetics, brain chemistry, and environmental stressors, may play a role in its development. Anxiety problems run in families, hence developing GAD is more common in certain situations.
 
 3. Anxiety
-1) What Is Disorder of Panic?
+a) What Is Disorder of Panic?
 Panic Disorder is characterized by frequent and unexpected panic attacks, which are sudden periods of acute dread or discomfort. Physical symptoms including dizziness, shortness of breath, and a racing heart are frequently experienced in conjunction with these episodes. People who suffer from panic disorder frequently avoid particular settings out of fear of experiencing another episode.
 b) Panic Disorder Symptoms:
 . Frequent and unexpected panic episodes
